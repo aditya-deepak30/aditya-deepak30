@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya-deepak30
+- 👋 Hi, I’m Aditya Deepak
 - 👀 I’m interested in designing simple distributed systems
 - 🌱 I’m currently learning CRDTs
 - 📫 You can reach out to me at aditya.deepak30@gmail.com
